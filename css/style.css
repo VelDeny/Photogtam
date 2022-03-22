@@ -13,6 +13,7 @@ body {
   width: 128px;
   height: 31px;
   margin-right: 340px;
+  vertical-align: bottom;
 }
 .header {
   background: #181818;
@@ -30,6 +31,7 @@ body {
   padding-right: 20px;
   padding-bottom: 10px;
   padding-left: 20px;
+  line-height: 50px;
 }
 .activ {
   border: 2px solid #ffffff;
