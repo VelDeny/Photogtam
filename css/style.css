@@ -10,17 +10,18 @@ body {
   margin-right: auto;
 }
 .logo {
-  width: 128px;
-  height: 31px;
   margin-right: 340px;
   vertical-align: bottom;
+}
+.logo img {
+  width: 128px;
+  height: 31px;
 }
 .header {
   background: #181818;
   padding-top: 30px;
   padding-bottom: 30px;
   padding-left: 150px;
-  margin-bottom: 465px;
 }
 .menu {
   color: #ffffff;
@@ -40,7 +41,7 @@ body {
   color: #181818;
 }
 .home {
-  background: url(..//img/IMAGE.png) cover no-repeat center;
+  background: url(..//img/homepage.png) cover center no-repeat;
 }
 .homepage {
   width: 580px;
